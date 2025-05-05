@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.22",
+  "importer": "image",
+  "imported": true,
+  "uuid": "ac1e4ad1-c6f0-4a24-8682-f708b3e47995",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "ac1e4ad1-c6f0-4a24-8682-f708b3e47995@6c48a",
+      "displayName": "ChatGPT_Image_Apr_25__2025__02_55_21_PM-removebg-preview",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ac1e4ad1-c6f0-4a24-8682-f708b3e47995"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "ac1e4ad1-c6f0-4a24-8682-f708b3e47995@6c48a"
+  }
+}
