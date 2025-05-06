@@ -31,6 +31,8 @@
   ],
   "_props": [
     {
+      "roughness": 0.165,
+      "metallic": 0,
       "emissive": {
         "__type__": "cc.Color",
         "r": 36,

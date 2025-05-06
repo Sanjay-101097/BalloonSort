@@ -31,6 +31,8 @@
   ],
   "_props": [
     {
+      "roughness": 0.165,
+      "metallic": 0,
       "mainTexture": {
         "__uuid__": "3f87076c-17ca-40c7-923b-51a8bd6b08d7@6c48a",
         "__expectedType__": "cc.Texture2D"
